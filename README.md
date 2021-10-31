@@ -1,4 +1,2 @@
-Página de Registro de Usuários
-
-um formulário de registro simples e direto com HTML e CSS
+Página de Registro de Usuários simples e direto com HTML e CSS
 
